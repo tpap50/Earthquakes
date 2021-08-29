@@ -8,4 +8,4 @@ print(seb)
 
 IWI <- "RICHMOND IS THE BEST"
 
-bigearthquate < 10
+bigearthquake <- 10
