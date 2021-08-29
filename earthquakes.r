@@ -1,3 +1,6 @@
+# This is iwi and Sebastian first ever R code, how exciting
+
+
 
 #1
 california_data <- earthquakes %>% filter(longitude >= -125 & longitude <= -114 & latitude <= 42.5 & latitude >= 32.5)
