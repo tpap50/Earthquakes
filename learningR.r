@@ -5,3 +5,5 @@
 seb <- "Sebastian"
 
 print(seb)
+
+IWI <- "RICHMOND IS THE BEST"
